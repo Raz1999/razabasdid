@@ -1,20 +1,23 @@
 # 👋 Hi, I'm Raz Abasdid
 
-🎓 I'm an Applied Mathematics & Statistics student @ Tel Aviv University.  
-🧠 Passionate about Mathematics, algorithms, AI , People, and real-world problem solving.  
+🎓 I'm a BSc student in Applied Mathematics & Statistics @ Tel Aviv University.  
+🧠 Curious, passionate about Mathematics, algorithms, AI, People, and real-world problem solving.  
 🚀 Currently working on hands-on algorithmic and AI projects in Python.  
-📚 I love mathematics,love to learn, and trying building things that can make an impact.
+📚 I love mathematics, love to learn, and trying building things that can make an impact.
 
 ## 🧰 Languages and Tools (Currently) 
 - Python
 - Git, GitHub, Linux
 
-## 🔧 Current Projects
+## 🚧 Projects in Progress
 
-- 🔢 Sudoku Solver (Python)
-- 📍 Pathfinding Visualizer (Dijkstra, A*) - Not yet
-- 🧩 Mini logic-based puzzles - Not yet
-- 🤖 Tiny NLP app using ChatGPT API - Not yet
+| Project | Description | Tech |
+|--------|-------------|------|
+| Sudoku Solver 🧩 | Solves classic Sudoku using backtracking and displays solution visually | Python |
+| Pathfinding Visualizer 📍 | Finds shortest paths with Dijkstra & A* (optional GUI) | Python, Tkinter |
+| Mini Puzzles Set 💡 | Set of algorithmic puzzles solved in Python | Python |
+| NLP Bot 🤖 | Simple chatbot using OpenAI API with Streamlit interface | Python, API |
+
 
 
 ## 📫 Contact
