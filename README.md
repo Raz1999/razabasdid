@@ -23,5 +23,5 @@
 ## 📫 Contact
 
 Feel free to reach out!  
-📧 raztzell@gmail.com  
+📧 raztzel@gmail.com  
 🔗 https://linkedin.com/in/razabasdid 
