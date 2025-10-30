@@ -6,8 +6,8 @@
 📚 I love mathematics, love to learn, and trying building things that can make an impact.
 
 ## 🧰 Languages and Tools (Currently) 
-- Python
-- Git, GitHub, Linux
+- Python, C
+- Git, GitHub
 
 ## 🚧 Projects in Progress
 
